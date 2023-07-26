@@ -1,0 +1,17 @@
+[VQVAE]
+rand_seed = 765
+learning_rate = 0.001
+loss_recon = MSE
+optimizer = Adam
+tuning = model1+model2
+loader = Resample 3 label
+augment_func = Random Affine
+num_code = 256
+embedding_dim = 128
+latent_dim = 128
+res_hidden_dim = 64
+cls_hidden_dim = 64
+drop_rate = 0.3
+beta = 0.25
+cross_validation = 10
+

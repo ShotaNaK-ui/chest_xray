@@ -1,0 +1,13 @@
+[model]
+rand_seed = 765
+model_name = resnet50d
+n_pix = 512
+learning_rate = 0.0001
+loss_cls_type = BCEWithLogit
+optimizer = Adam
+loader = Resample 3 label
+augment_func = Random Affine
+drop_rate = 0.5
+target_type = both
+cross_validation = 10
+
