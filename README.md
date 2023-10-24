@@ -14,5 +14,3 @@ The data set published here is a set of anonymized samples. The original diagnos
 You can download the parameters of the model trained in cross-validation from the following link:
 
 [Download Model Parameters](https://figshare.com/articles/software/CNN_models_trained_in_cross-validation/24268450)
-
-[Download Model Parameters_DO](10.6084/m9.figshare.24268450)
