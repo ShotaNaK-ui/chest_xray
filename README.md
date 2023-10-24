@@ -15,4 +15,3 @@ You can download the parameters of the model trained in cross-validation from th
 
 [Download Model Parameters](https://figshare.com/articles/software/CNN_models_trained_in_cross-validation/24268450)
 
-<iframe src="https://widgets.figshare.com/articles/24268450/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
